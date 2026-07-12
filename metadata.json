@@ -1,0 +1,6 @@
+{
+  "name": "별의 여행자",
+  "description": "어린 왕자 모티브의 2D 우주 여행 교육용 RPG 및 미니게임 모음집",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
